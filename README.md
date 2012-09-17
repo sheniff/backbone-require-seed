@@ -7,4 +7,6 @@ Please, feel free to take a look at the code, fork it, copy it or do whatever yo
 
 You can use the file boilerplate.js as a template to create new elements in your app (such as models, collections or views).
 
-If your are using Sublime Text 2 as your text editor, I highly recommend you <a href="https://github.com/tomasztunik/Sublime-Text-2-Backbone.js-package">BackboneJS Plugin by Tomasz Tunik</a> which adds some useful shortcuts to create backbone objects in your project.
+If your are using Sublime Text 2 as your text editor, I highly recommend you [BackboneJS Plugin by Tomasz Tunik](https://github.com/tomasztunik/Sublime-Text-2-Backbone.js-package) which adds some useful shortcuts to create backbone objects in your project.
+
+Fully based on [Thomas Davis example for Backbone Tutorials](https://github.com/thomasdavis/backbonetutorials/tree/gh-pages/examples/modular-backbone-updated).
