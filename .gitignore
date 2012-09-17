@@ -1,0 +1,13 @@
+.DS_Store
+log
+tmp
+pids
+coverage
+*.swp
+*.swo
+.bundle
+.sass-cache
+**.orig
+.rspec
+.rvmrc
+
